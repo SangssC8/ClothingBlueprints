@@ -1,0 +1,17 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_ScrapMetal"],
+    "RequiredGearUnits": [12],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": ["GEAR_Hacksaw"],
+    "RequiresForge": true,
+    "RequiresWorkbench": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Crampons",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 600,
+    "CraftingAudio": "PLAY_ClothingRepair",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
