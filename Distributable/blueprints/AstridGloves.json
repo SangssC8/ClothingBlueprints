@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_AstridGloves",
     "CraftedResultCount": 1,
-    "DurationMinutes": 300,
+    "DurationMinutes": 180,
     "CraftingAudio": "PLAY_ClothingRepair",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

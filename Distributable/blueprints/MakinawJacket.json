@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_MackinawJacket",
     "CraftedResultCount": 1,
-    "DurationMinutes": 600,
+    "DurationMinutes": 540,
     "CraftingAudio": "PLAY_ClothingRepair",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

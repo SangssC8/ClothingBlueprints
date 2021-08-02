@@ -6,11 +6,11 @@
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
     "RequiresForge": false,
-    "RequiresWorkbench": false,
+    "RequiresWorkbench": true,
     "RequiresLight": true,
     "CraftedResult": "GEAR_QualityWinterCoat",
     "CraftedResultCount": 1,
-    "DurationMinutes": 600,
+    "DurationMinutes": 660,
     "CraftingAudio": "PLAY_ClothingRepair",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

@@ -1,7 +1,7 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
-    "RequiredGear": ["GEAR_LeatherDried"],
-    "RequiredGearUnits": [4],
+    "RequiredGear": ["GEAR_LeatherDried", "GEAR_CLOTH"],
+    "RequiredGearUnits": [5, 1],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_BasicShoes",
     "CraftedResultCount": 1,
-    "DurationMinutes": 400,
+    "DurationMinutes": 210,
     "CraftingAudio": "PLAY_ClothingRepair",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
