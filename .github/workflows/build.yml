@@ -10,6 +10,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: List Files
+      shell: bash
+      run: |
+        echo Listing root files...
+        ls ./
+        echo Listing Distributable files...
+        ls ./Distributable
+        echo Listing Blueprints
+        ls ./Distributable/blueprints
     - name: Upload Files
       uses: actions/upload-artifact@v2
       with:
