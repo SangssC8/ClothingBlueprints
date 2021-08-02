@@ -14,5 +14,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: ClothingBlueprints
-        path: /home/runner/work/ClothingBlueprints/ClothingBlueprints/Distributable/*
+        path: ./Distributable/*
         if-no-files-found: error
