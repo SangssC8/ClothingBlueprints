@@ -5,13 +5,13 @@
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
-    "RequiresForge": false,
-    "RequiresWorkbench": true,
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_BasicGloves",
     "CraftedResultCount": 1,
     "DurationMinutes": 150,
-    "CraftingAudio": "PLAY_ClothingRepair",
+    "CraftingAudio": "PLAY_CraftingLeatherHide",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
 }

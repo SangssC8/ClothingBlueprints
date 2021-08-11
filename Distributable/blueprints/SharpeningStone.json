@@ -1,17 +1,17 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_Stone"],
-    "RequiredGearUnits": [24],
+    "RequiredGearUnits": [10],
     "KeroseneLitersRequired": 0,
-    "RequiredTool": "",
+    "RequiredTool": "GEAR_Hammer",
     "OptionalTools": [],
-    "RequiresForge": false,
-    "RequiresWorkbench": true,
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_SharpeningStone",
     "CraftedResultCount": 1,
-    "DurationMinutes": 720,
-    "CraftingAudio": "PLAY_ClothingRepair",
+    "DurationMinutes": 150,
+    "CraftingAudio": "PLAY_CraftingMetal",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
 }

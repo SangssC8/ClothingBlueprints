@@ -1,17 +1,17 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
-    "RequiredGear": ["GEAR_LeatherDried", "GEAR_CLOTH"],
+    "RequiredGear": ["GEAR_LeatherDried", "GEAR_Cloth"],
     "RequiredGearUnits": [7, 2],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
-    "RequiresForge": false,
-    "RequiresWorkbench": true,
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_WillBoots",
     "CraftedResultCount": 1,
     "DurationMinutes": 270,
-    "CraftingAudio": "PLAY_ClothingRepair",
+    "CraftingAudio": "PLAY_CraftingLeatherHide",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
 }
