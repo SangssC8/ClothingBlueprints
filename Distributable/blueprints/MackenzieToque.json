@@ -1,0 +1,17 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_Cloth"],
+    "RequiredGearUnits": [13],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WillToque",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 390,
+    "CraftingAudio": "PLAY_CraftingCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
