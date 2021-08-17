@@ -1,7 +1,7 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_ScrapMetal", "GEAR_LeatherDried"],
-    "RequiredGearUnits": [15, 3],
+    "RequiredGearUnits": [15, 6],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_Hammer",
     "OptionalTools": ["GEAR_Hacksaw"],
