@@ -1,7 +1,7 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_Cloth"],
-    "RequiredGearUnits": [4],
+    "RequiredGearUnits": [5],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_WoolSocks",
     "CraftedResultCount": 1,
-    "DurationMinutes": 120,
+    "DurationMinutes": 150,
     "CraftingAudio": "PLAY_CraftingCloth",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

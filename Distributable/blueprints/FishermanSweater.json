@@ -1,7 +1,7 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_Cloth"],
-    "RequiredGearUnits": [17],
+    "RequiredGearUnits": [18],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_FishermanSweater",
     "CraftedResultCount": 1,
-    "DurationMinutes": 510,
+    "DurationMinutes": 540,
     "CraftingAudio": "PLAY_CraftingCloth",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

@@ -1,0 +1,17 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_Cloth"],
+    "RequiredGearUnits": [25],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PremiumWinterCoat",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 750,
+    "CraftingAudio": "PLAY_CraftingCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
