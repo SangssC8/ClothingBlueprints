@@ -1,7 +1,7 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_Cloth"],
-    "RequiredGearUnits": [18],
+    "RequiredGearUnits": [16],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
     "OptionalTools": ["GEAR_HookAndLine"],
