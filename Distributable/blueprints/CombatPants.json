@@ -1,9 +1,10 @@
 {
-    "@type": "ModComponentAPI.ModBlueprint",
+    "Name": "ModComponentAPI.ModBlueprint",
     "RequiredGear": ["GEAR_Cloth"],
     "RequiredGearUnits": [17],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
+    "GunpowderRequired": 0,
     "OptionalTools": ["GEAR_HookAndLine"],
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
